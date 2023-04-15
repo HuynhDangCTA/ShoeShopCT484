@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:shoes_shop_ui/models/cart_model.dart';
+import 'package:shoes_shop/models/cart_model.dart';
 
-import 'package:shoes_shop_ui/consts.dart';
-import 'package:shoes_shop_ui/models/shoes_model.dart';
+import 'package:shoes_shop/consts.dart';
+import 'package:shoes_shop/models/shoes_model.dart';
 
 class DetailsPage extends StatefulWidget {
   final ShoesModel item;

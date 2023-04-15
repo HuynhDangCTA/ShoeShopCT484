@@ -1,12 +1,11 @@
 import 'package:animate_do/animate_do.dart';
-import 'package:badges/badges.dart';
 import 'package:flutter/material.dart';
 
-import 'package:shoes_shop_ui/consts.dart';
-import 'package:shoes_shop_ui/pages/details_page.dart';
-import 'package:shoes_shop_ui/models/shoes_model.dart';
-import 'package:shoes_shop_ui/pages/my_favorite.dart';
-import 'package:shoes_shop_ui/pages/mycart.dart';
+import 'package:shoes_shop/consts.dart';
+import 'package:shoes_shop/pages/details_page.dart';
+import 'package:shoes_shop/models/shoes_model.dart';
+import 'package:shoes_shop/pages/my_favorite.dart';
+import 'package:shoes_shop/pages/mycart.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key}) : super(key: key);

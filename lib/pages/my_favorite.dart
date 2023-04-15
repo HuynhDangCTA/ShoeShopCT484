@@ -1,7 +1,7 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
-import 'package:shoes_shop_ui/consts.dart';
-import 'package:shoes_shop_ui/pages/details_page.dart';
+import 'package:shoes_shop/consts.dart';
+import 'package:shoes_shop/pages/details_page.dart';
 
 class MyFavorite extends StatefulWidget {
   const MyFavorite({Key? key}) : super(key: key);

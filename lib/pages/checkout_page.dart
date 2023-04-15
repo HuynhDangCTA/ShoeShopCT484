@@ -1,9 +1,9 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_custom_clippers/flutter_custom_clippers.dart';
-import 'package:shoes_shop_ui/consts.dart';
-import 'package:shoes_shop_ui/models/cart_model.dart';
-import 'package:shoes_shop_ui/pages/myhomepage.dart';
+import 'package:shoes_shop/consts.dart';
+import 'package:shoes_shop/models/cart_model.dart';
+import 'package:shoes_shop/pages/myhomepage.dart';
 
 class CheckoutPage extends StatefulWidget {
   final List<CartModel> cartModel;

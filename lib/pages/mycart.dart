@@ -1,7 +1,7 @@
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
-import 'package:shoes_shop_ui/consts.dart';
-import 'package:shoes_shop_ui/pages/checkout_page.dart';
+import 'package:shoes_shop/consts.dart';
+import 'package:shoes_shop/pages/checkout_page.dart';
 
 class MyCart extends StatefulWidget {
   const MyCart({Key? key}) : super(key: key);
